@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bacardevelopper
-- 👀 I’m interested tech
-- 🌱 I’m currently learning javascript, dart
+- 👋 Hé je suis un dev fullstack
+- 👀 Je suis interessé par la programmation
+- 🌱 DART, JAVASCRIPT, PYTHON
 
 <!---
 bacardevelopper/bacardevelopper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
