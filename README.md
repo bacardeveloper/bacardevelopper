@@ -1,7 +1,7 @@
 # NIWRAD aka le roi
 - 👋 Hé je suis un dev fullstack
 - 👀 Je suis interessé par la programmation
-- 🌱 DART, JAVASCRIPT, PYTHON
+- 🌱 DART, JAVASCRIPT
 
 <!---
 bacardevelopper/bacardevelopper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
