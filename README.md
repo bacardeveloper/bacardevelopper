@@ -1,6 +1,5 @@
-# NIWRAD aka le roi
-- 👋 Hé je suis un dev fullstack
-- 👀 Je suis interessé par la programmation
+# NIWRAD
+- 👋 Hé je suis un dev fullstack si j'ai bien compris le truc
 - 🌱 DART, JAVASCRIPT
 
 <!---
